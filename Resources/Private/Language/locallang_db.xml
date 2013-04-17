@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 't3o_snippets'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_t3osnippets_domain_model_snippet">Snippet</label>
+			<label index="tx_t3osnippets_domain_model_snippet.title">Title:</label>
+			<label index="tx_t3osnippets_domain_model_snippet.category">Category:</label>
+			<label index="tx_t3osnippets_domain_model_snippet.description">Description:</label>
+			<label index="tx_t3osnippets_domain_model_snippet.author">Author:</label>
+			<label index="tx_t3osnippets_domain_model_snippet.code">Code:</label>
+			<label index="tx_t3osnippets_domain_model_snippet.tags">Tags:</label>
+			<label index="tx_t3osnippets_domain_model_category">Category</label>
+			<label index="tx_t3osnippets_domain_model_category.title">Title:</label>
+		</languageKey>
+	</data>
+</T3locallang>
